@@ -1,0 +1,5 @@
+{
+	"last_test_file": "user_states_spec.rb",
+	"last_test_run": "bundle exec cucumber features/multi_tenancy.feature -l13",
+	"last_test_working_dir": "/Users/div/dev/ror/work/folify"
+}

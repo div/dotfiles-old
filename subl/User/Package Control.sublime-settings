@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"CoffeeScript",
+		"Cucumber",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"Jimbly's Clipboard History",
+		"Package Control",
+		"RSpec",
+		"RubyTest",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	]
+}
